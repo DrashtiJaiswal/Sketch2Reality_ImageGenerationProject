@@ -1,0 +1,1 @@
+﻿run_id,timestamp_utc,sketch_category,sketch_file,prompt,style,provider,model,control_strength,seed_used,generation_time_s,credits_estimated,structure_proxy_edge_recall,structure_proxy_chance_level,human_visual_quality_1to5,human_structure_preservation_1to5,clip_similarity_optional_manual,notes

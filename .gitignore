@@ -1,0 +1,16 @@
+# secrets
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# runtime data (your own evaluation results; export the CSV from the app instead)
+evaluation/evaluation_log.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
